@@ -26,3 +26,12 @@ The dataset, extracted from **Google BigQuery**, includes:
    ```sh
    git clone https://github.com/your-username/conversion-prediction.git
    cd conversion-prediction
+
+## Contact & Contributions 📞🤝
+
+- **LinkedIn**: [Huayu Yin (Joy)](https://www.linkedin.com/in/huayu-joy-yin-3266451b8/) 
+- **GitHub**: [@joy0670](https://github.com/joy0670)
+- **Email**: h.yin0670@gmail.com
+
+Feel free to fork this project, raise issues, and submit Pull Requests. For major changes, kindly open an issue first to discuss what you'd like to change.
+
